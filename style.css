@@ -4,6 +4,14 @@ body{
 }
 
 #album {
-  width: 100px;
+  width: 300px;
     border-radius: 50px;
+}
+
+p {
+  font-size: 50px;
+}
+
+#razones {
+  font-size: 30px;
 }
